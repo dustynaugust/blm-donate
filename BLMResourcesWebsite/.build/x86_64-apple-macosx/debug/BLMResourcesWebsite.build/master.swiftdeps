@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "6052e800845c8eced70f4c1f1a0a15ff"
+build_time: [1591158988, 148665000]
+inputs:
+  "/Users/dustynaugust/Documents/dustyn/blm-funds/BLMResourcesWebsite/Sources/BLMResourcesWebsite/NewTheme/NewFoundationHTMLFactory.swift": [1592889236, 111236948]
+  "/Users/dustynaugust/Documents/dustyn/blm-funds/BLMResourcesWebsite/Sources/BLMResourcesWebsite/NewTheme/Nodes/Node+TagList.swift": [1591155679, 747198540]
+  "/Users/dustynaugust/Documents/dustyn/blm-funds/BLMResourcesWebsite/Sources/BLMResourcesWebsite/NewTheme/Theme+NewFoundation.swift": [1591158248, 132994062]
+  "/Users/dustynaugust/Documents/dustyn/blm-funds/BLMResourcesWebsite/Sources/BLMResourcesWebsite/main.swift": [1591157244, 315582939]

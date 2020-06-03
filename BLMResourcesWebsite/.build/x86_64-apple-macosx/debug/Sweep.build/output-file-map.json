@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/dustynaugust/Documents/dustyn/blm-funds/BLMResourcesWebsite/.build/x86_64-apple-macosx/debug/Sweep.build/master.swiftdeps"
+  },
+  "/Users/dustynaugust/Documents/dustyn/blm-funds/BLMResourcesWebsite/.build/checkouts/sweep/Sources/Sweep/Sweep.swift": {
+    "dependencies": "/Users/dustynaugust/Documents/dustyn/blm-funds/BLMResourcesWebsite/.build/x86_64-apple-macosx/debug/Sweep.build/Sweep.d",
+    "object": "/Users/dustynaugust/Documents/dustyn/blm-funds/BLMResourcesWebsite/.build/x86_64-apple-macosx/debug/Sweep.build/Sweep.swift.o",
+    "swiftmodule": "/Users/dustynaugust/Documents/dustyn/blm-funds/BLMResourcesWebsite/.build/x86_64-apple-macosx/debug/Sweep.build/Sweep~partial.swiftmodule",
+    "swift-dependencies": "/Users/dustynaugust/Documents/dustyn/blm-funds/BLMResourcesWebsite/.build/x86_64-apple-macosx/debug/Sweep.build/Sweep.swiftdeps"
+  }
+}

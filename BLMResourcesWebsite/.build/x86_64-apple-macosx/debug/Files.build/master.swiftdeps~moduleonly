@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "c93f2c5cd663bc4d829ce84e0ad4d58c"
+build_time: [1591158961, 367421000]
+inputs:
+  "/Users/dustynaugust/Documents/dustyn/blm-funds/BLMResourcesWebsite/.build/checkouts/files/Sources/Files.swift": [1591158957, 40022692]
