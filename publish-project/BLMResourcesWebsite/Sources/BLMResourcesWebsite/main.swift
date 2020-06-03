@@ -15,7 +15,7 @@ struct BLMResourcesWebsite: Website {
     }
 
     // Update these properties to configure your website:
-    var url = URL(string: "https://dustynaugust.github.io/blm-funds/")!
+    var url = URL(string: "https://blm-donate.com")!
     var name = "BLM Funds"
     var description = "Donate to support BLM."
     var language: Language { .english }
@@ -23,5 +23,4 @@ struct BLMResourcesWebsite: Website {
 }
 
 // This will generate your website using the built-in Foundation theme:
-try BLMResourcesWebsite().publish(withTheme: .newFoundation,
-                                  additionalSteps: [.deploy(using: .gitHub("https://dustynaugust.github.io/blm-funds"))])
+try BLMResourcesWebsite().publish(withTheme: .newFoundation)

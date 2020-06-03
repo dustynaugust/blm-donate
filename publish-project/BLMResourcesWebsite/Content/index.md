@@ -1,1 +1,1 @@
-# Welcome to BLMResourcesWebsite!
+# Please consider donating to BLM.
