@@ -1,4 +1,0 @@
-module Codextended {
-    header "/Users/dustynaugust/Documents/dustyn/blm-funds/BLMResourcesWebsite/.build/x86_64-apple-macosx/debug/Codextended.build/Codextended-Swift.h"
-    requires objc
-}

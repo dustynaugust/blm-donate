@@ -1,5 +1,0 @@
-version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
-options: "5448141ed0c615a4139a81d88d620203"
-build_time: [1591158961, 369097000]
-inputs:
-  "/Users/dustynaugust/Documents/dustyn/blm-funds/BLMResourcesWebsite/.build/checkouts/codextended/Sources/Codextended/Codextended.swift": [1591158958, 203589228]

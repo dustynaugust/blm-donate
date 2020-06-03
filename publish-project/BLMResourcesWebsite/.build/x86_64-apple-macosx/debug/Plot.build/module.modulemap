@@ -1,4 +1,0 @@
-module Plot {
-    header "/Users/dustynaugust/Documents/dustyn/blm-funds/BLMResourcesWebsite/.build/x86_64-apple-macosx/debug/Plot.build/Plot-Swift.h"
-    requires objc
-}
